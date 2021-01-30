@@ -1,0 +1,56 @@
+nav {
+    height: 50px;
+    background-color: darkgrey;
+  
+  }
+  
+  .inline-block {
+    display: inline-block;
+    padding: 15px;
+    color: white;
+  }
+
+  
+  .left {
+
+  
+  height: 700px;
+  float: left;
+  background-color: rgb(20, 10, 161);
+  width: 29%;
+  
+
+  }
+
+  .right {
+
+  
+    height: 700px;
+    float: left;
+    background-color: rgb(119, 144, 139);
+    width: 70%;
+    
+  }
+
+  .top {
+    height: 250px;
+    float: left;
+    background-color: rgb(161, 138, 10);
+    background-image: images/IMG_3021.jpg;
+    width: 100%;
+    
+    
+  }
+
+  .bottom {
+    height: 450px;
+    float: left;
+    background-color: rgb(161, 90, 10);
+    width: 100%;
+    
+    
+  }
+
+  .image {
+    float: left;
+  }
